@@ -20,8 +20,8 @@ Edit the file ./homework1/hw1.py to make the three github actions pass.
 
 When they pass, and you see the updated badges in your repository, send me a link to the repository, like:
 
-https://github.com/vcu-chfauerbach/root_homework1
+[redactedURL]
 
 but
 
-https://github.com/YOUR_GITHUB_ACCOUNT/root_homework1
+[redactedURL]
